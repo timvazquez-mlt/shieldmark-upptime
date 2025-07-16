@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shieldmark.us.ico",
     "slug": "shield-mark",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.77%",
+    "uptimeDay": "78.94%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.77%",
     "time": 1027,
-    "timeDay": 1016,
-    "timeWeek": 1140,
+    "timeDay": 839,
+    "timeWeek": 1128,
     "timeMonth": 981,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2025-07-15": 16
+      "2025-07-16": 118,
+      "2025-07-15": 185
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 182,
-    "timeWeek": 299,
-    "timeMonth": 275,
+    "timeDay": 244,
+    "timeWeek": 285,
+    "timeMonth": 278,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 485,
+    "time": 362,
+    "timeDay": 186,
     "timeWeek": 233,
-    "timeMonth": 293,
-    "timeYear": 364,
+    "timeMonth": 294,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2386,
-    "timeDay": 1319,
-    "timeWeek": 2020,
-    "timeMonth": 2122,
-    "timeYear": 2386,
+    "time": 2383,
+    "timeDay": 2020,
+    "timeWeek": 2127,
+    "timeMonth": 2132,
+    "timeYear": 2383,
     "dailyMinutesDown": {}
   }
 ]
