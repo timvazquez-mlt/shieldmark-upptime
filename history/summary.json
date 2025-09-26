@@ -73,17 +73,17 @@
     "url": "https://floorsign.com/",
     "icon": "https://icons.duckduckgo.com/ip3/floorsign.com.ico",
     "slug": "floor-sign",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2431,
-    "timeDay": 2219,
-    "timeWeek": 2681,
-    "timeMonth": 2697,
-    "timeYear": 2431,
+    "time": 2432,
+    "timeDay": 2384,
+    "timeWeek": 2665,
+    "timeMonth": 2693,
+    "timeYear": 2432,
     "dailyMinutesDown": {}
   }
 ]
