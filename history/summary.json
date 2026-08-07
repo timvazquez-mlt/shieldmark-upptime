@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shieldmark.us.ico",
     "slug": "shield-mark",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1071,
-    "timeDay": 1094,
-    "timeWeek": 1912,
-    "timeMonth": 1285,
-    "timeYear": 1088,
+    "time": 1070,
+    "timeDay": 884,
+    "timeWeek": 1158,
+    "timeMonth": 1269,
+    "timeYear": 1089,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 369,
-    "timeWeek": 378,
-    "timeMonth": 437,
-    "timeYear": 368,
+    "timeDay": 506,
+    "timeWeek": 405,
+    "timeMonth": 432,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
-    "timeDay": 493,
-    "timeWeek": 635,
-    "timeMonth": 684,
-    "timeYear": 620,
+    "timeDay": 498,
+    "timeWeek": 609,
+    "timeMonth": 673,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2747,
-    "timeDay": 2583,
-    "timeWeek": 2621,
+    "timeDay": 2944,
+    "timeWeek": 2724,
     "timeMonth": 3161,
-    "timeYear": 2884,
+    "timeYear": 2887,
     "dailyMinutesDown": {}
   }
 ]
